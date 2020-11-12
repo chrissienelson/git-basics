@@ -1,0 +1,7 @@
+potatoes
+carrots
+chicken
+rice
+ketchup
+milk
+popcorn
